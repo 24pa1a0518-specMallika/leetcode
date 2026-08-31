@@ -17,4 +17,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0050-powx-n) |
+## Array
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
