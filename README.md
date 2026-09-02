@@ -13,6 +13,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
@@ -37,4 +38,12 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
