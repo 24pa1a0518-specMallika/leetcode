@@ -13,11 +13,13 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -27,4 +29,12 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
