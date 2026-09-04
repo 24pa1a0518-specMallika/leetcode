@@ -28,6 +28,7 @@
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
+| [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
