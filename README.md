@@ -37,6 +37,7 @@
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
