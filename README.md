@@ -6,6 +6,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -78,4 +80,16 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0058-length-of-last-word) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
