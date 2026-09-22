@@ -40,6 +40,7 @@
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
@@ -96,6 +98,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
