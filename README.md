@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0326-power-of-three) |
@@ -82,6 +83,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
@@ -90,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0058-length-of-last-word) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
