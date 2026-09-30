@@ -42,6 +42,7 @@
 | [0001-two-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
