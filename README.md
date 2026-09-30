@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
+| [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Newton's Method
 |  |
 | ------- |
@@ -90,6 +92,7 @@
 | [0013-roman-to-integer](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -108,6 +111,7 @@
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
@@ -126,4 +130,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
