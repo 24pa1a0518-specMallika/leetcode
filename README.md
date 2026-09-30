@@ -47,6 +47,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
+| [0766-toeplitz-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -56,6 +57,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0766-toeplitz-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
 ## Dynamic Programming
 |  |
