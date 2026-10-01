@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -146,6 +147,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
