@@ -107,6 +107,7 @@
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
@@ -117,6 +118,7 @@
 | [0012-integer-to-roman](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 ## Sorting
@@ -140,6 +142,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -151,4 +154,8 @@
 | [0027-remove-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0027-remove-element) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
