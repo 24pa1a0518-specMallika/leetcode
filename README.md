@@ -112,6 +112,7 @@
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## String
@@ -122,6 +123,7 @@
 | [0058-length-of-last-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Sorting
@@ -147,6 +149,7 @@
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -162,4 +165,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
