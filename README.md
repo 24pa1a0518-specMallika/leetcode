@@ -63,6 +63,7 @@
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -139,6 +140,7 @@
 | [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -178,6 +180,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Counting Sort
 |  |
 | ------- |
