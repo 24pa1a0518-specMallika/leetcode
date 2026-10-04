@@ -54,6 +54,7 @@
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -135,6 +136,7 @@
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
@@ -172,4 +174,12 @@
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
