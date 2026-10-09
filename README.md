@@ -29,6 +29,7 @@
 | [0231-power-of-two](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -108,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
 ## Prefix Sum
 |  |
@@ -142,6 +144,7 @@
 | [0014-longest-common-prefix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0058-length-of-last-word) |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
