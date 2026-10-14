@@ -11,6 +11,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0231-power-of-two) |
@@ -26,6 +27,7 @@
 | [0013-roman-to-integer](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0326-power-of-three) |
@@ -111,6 +113,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
 ## Prefix Sum
@@ -146,6 +149,7 @@
 | [0014-longest-common-prefix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
