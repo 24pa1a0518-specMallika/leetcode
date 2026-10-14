@@ -25,6 +25,7 @@
 | [0012-integer-to-roman](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0326-power-of-three) |
@@ -51,6 +52,7 @@
 | [0027-remove-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0119-pascals-triangle-ii) |
