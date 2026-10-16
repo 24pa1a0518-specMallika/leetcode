@@ -94,6 +94,7 @@
 | [0070-climbing-stairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0392-is-subsequence](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
@@ -159,6 +160,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
@@ -213,6 +215,7 @@
 | [0344-reverse-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0392-is-subsequence) |
 ## Queue
 |  |
 | ------- |
