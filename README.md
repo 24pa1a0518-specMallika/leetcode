@@ -41,6 +41,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
+| [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
 | ------- |
@@ -261,4 +262,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
