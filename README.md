@@ -41,6 +41,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
+| [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
@@ -265,5 +266,18 @@
 ## Number Theory
 |  |
 | ------- |
+| [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
