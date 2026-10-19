@@ -8,7 +8,7 @@ class Solution {
             }
         }
         
-        // 2. Fill the rest of the array with zeroes
+   
         while (count < nums.length) {
             nums[count] = 0;
             count++;
