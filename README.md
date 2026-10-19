@@ -38,6 +38,7 @@
 | [0507-perfect-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1154-day-of-the-year](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1154-day-of-the-year) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
@@ -170,6 +171,7 @@
 | [0709-to-lower-case](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0819-most-common-word) |
+| [1154-day-of-the-year](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1154-day-of-the-year) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
