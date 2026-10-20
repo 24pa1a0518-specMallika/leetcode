@@ -86,6 +86,7 @@
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
 | [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -153,6 +154,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
 ## String
 |  |
 | ------- |
@@ -175,6 +177,7 @@
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
