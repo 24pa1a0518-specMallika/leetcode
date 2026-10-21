@@ -1,6 +1,6 @@
 class Solution {
     public boolean isPalindrome(int x) {
-        if (x < 0) return false; // negative numbers can't be palindrome
+        if (x < 0) return false; 
 
         int rev = 0, temp = x;
 
