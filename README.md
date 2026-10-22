@@ -44,6 +44,7 @@
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
+| [2235-add-two-integers](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Recursion
 |  |
