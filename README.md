@@ -158,6 +158,7 @@
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
 |  |
 | ------- |
@@ -183,6 +184,7 @@
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -216,6 +218,7 @@
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2351-first-letter-to-appear-twice](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2351-first-letter-to-appear-twice) |
+| [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
