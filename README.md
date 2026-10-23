@@ -295,4 +295,8 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
