@@ -81,6 +81,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0819-most-common-word) |
+| [0977-squares-of-a-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -200,6 +201,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -240,6 +242,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0541-reverse-string-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
