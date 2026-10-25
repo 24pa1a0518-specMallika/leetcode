@@ -30,6 +30,7 @@
 | [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0342-power-of-four) |
@@ -149,6 +150,7 @@
 | [0012-integer-to-roman](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -236,6 +238,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -306,4 +309,8 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0196-delete-duplicate-emails) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
