@@ -32,6 +32,7 @@
 | [0070-climbing-stairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0367-valid-perfect-square) |
@@ -135,6 +136,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
 ## Prefix Sum
@@ -294,6 +296,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
 ## Enumeration
