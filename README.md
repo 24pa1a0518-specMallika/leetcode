@@ -319,6 +319,7 @@
 |  |
 | ------- |
 | [0196-delete-duplicate-emails](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0196-delete-duplicate-emails) |
+| [0197-rising-temperature](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0197-rising-temperature) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
