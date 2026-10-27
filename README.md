@@ -82,6 +82,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0455-assign-cookies) |
+| [0500-keyboard-row](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0697-degree-of-an-array) |
@@ -165,6 +166,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
@@ -191,6 +193,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
+| [0500-keyboard-row](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0709-to-lower-case) |
