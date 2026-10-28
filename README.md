@@ -69,6 +69,7 @@
 | [0014-longest-common-prefix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0035-search-insert-position) |
+| [0051-n-queens](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0088-merge-sorted-array) |
@@ -357,4 +358,12 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
