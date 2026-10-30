@@ -94,6 +94,7 @@
 | [0819-most-common-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0819-most-common-word) |
 | [0977-squares-of-a-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -179,6 +180,7 @@
 | [0697-degree-of-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
 | [0819-most-common-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0819-most-common-word) |
+| [1207-unique-number-of-occurrences](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2325-decode-the-message](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2325-decode-the-message) |
