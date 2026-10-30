@@ -86,6 +86,7 @@
 | [0455-assign-cookies](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0455-assign-cookies) |
 | [0500-keyboard-row](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -171,6 +172,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0645-set-mismatch) |
 | [0697-degree-of-an-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0697-degree-of-an-array) |
 | [0771-jewels-and-stones](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0771-jewels-and-stones) |
