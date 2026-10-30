@@ -105,12 +105,14 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0766-toeplitz-matrix) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
+| [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
 | ------- |
