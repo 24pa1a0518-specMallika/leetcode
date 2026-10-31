@@ -54,6 +54,7 @@
 | [2235-add-two-integers](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2469-convert-the-temperature) |
+| [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Recursion
 |  |
 | ------- |
@@ -108,6 +109,7 @@
 | [2016-maximum-difference-between-increasing-elements](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
+| [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
@@ -117,6 +119,7 @@
 | [0867-transpose-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
@@ -327,6 +330,7 @@
 | [0258-add-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0258-add-digits) |
 | [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
 | [2413-smallest-even-multiple](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2413-smallest-even-multiple) |
+| [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
 ## Enumeration
 |  |
 | ------- |
