@@ -108,6 +108,7 @@
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
 | [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
@@ -121,6 +122,7 @@
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
@@ -164,6 +166,7 @@
 | [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
 | [0867-transpose-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Prefix Sum
 |  |
 | ------- |
