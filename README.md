@@ -92,6 +92,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0766-toeplitz-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0819-most-common-word) |
+| [0867-transpose-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -112,6 +113,7 @@
 |  |
 | ------- |
 | [0766-toeplitz-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1672-richest-customer-wealth) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
@@ -152,6 +154,7 @@
 | [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0867-transpose-matrix) |
 | [1518-water-bottles](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1518-water-bottles) |
 ## Prefix Sum
 |  |
