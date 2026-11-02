@@ -115,6 +115,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2418-sort-the-people](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2418-sort-the-people) |
 | [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
+| [3127-make-a-square-with-the-same-color](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
@@ -128,6 +129,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
+| [3127-make-a-square-with-the-same-color](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
 ## Dynamic Programming
 |  |
@@ -346,6 +348,7 @@
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/1952-three-divisors) |
+| [3127-make-a-square-with-the-same-color](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 ## Prime Factorization
 |  |
 | ------- |
