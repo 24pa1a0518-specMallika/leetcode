@@ -117,6 +117,7 @@
 | [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3127-make-a-square-with-the-same-color](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Matrix
 |  |
@@ -131,6 +132,7 @@
 | [2614-prime-in-diagonal](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/2614-prime-in-diagonal) |
 | [3127-make-a-square-with-the-same-color](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3127-make-a-square-with-the-same-color) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,4 +414,8 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0002-add-two-numbers) |
+## Graph Theory
+|  |
+| ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 <!---LeetCode Topics End-->
