@@ -34,6 +34,7 @@
 | [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0258-add-digits) |
@@ -227,6 +228,7 @@
 | [0067-add-binary](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0290-word-pattern](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0387-first-unique-character-in-a-string) |
