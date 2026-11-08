@@ -74,6 +74,7 @@
 | [0001-two-sum](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0035-search-insert-position) |
 | [0051-n-queens](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0053-maximum-subarray) |
@@ -157,6 +158,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0349-intersection-of-two-arrays) |
