@@ -194,6 +194,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0013-roman-to-integer) |
+| [0141-linked-list-cycle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0217-contains-duplicate) |
@@ -296,6 +297,7 @@
 | [0027-remove-element](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0088-merge-sorted-array) |
+| [0141-linked-list-cycle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0283-move-zeroes) |
@@ -379,6 +381,7 @@
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0202-happy-number) |
 ## Brainteaser
 |  |
@@ -426,6 +429,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/24pa1a0518-specMallika/leetcode/tree/master/0206-reverse-linked-list) |
 ## Graph Theory
 |  |
